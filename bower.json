@@ -1,0 +1,12 @@
+{
+  "name": "angular-orderByLocaleAware",
+  "main": "angular-orderByLocaleAware.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/elad/angular-orderByLocaleAware",
+  "description": "locale-aware orderBy",
+  "keywords": [
+    "angular",
+    "orderBy",
+    "locale"
+  ]
+}
