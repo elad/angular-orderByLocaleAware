@@ -7,7 +7,7 @@ What is locale-aware ordering? It means that locale is taken into account when o
 ## Install
 
 ```
-bower install orderByLocaleAware
+bower install angular-orderByLocaleAware
 ```
 
 ## Use
